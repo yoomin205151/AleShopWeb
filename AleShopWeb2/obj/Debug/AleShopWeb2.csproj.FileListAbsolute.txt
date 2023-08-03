@@ -90,3 +90,8 @@ C:\Users\yoomi\source\repos\AleShopWeb2\AleShopWeb2\bin\PagedList.dll
 C:\Users\yoomi\source\repos\AleShopWeb2\AleShopWeb2\bin\PagedList.Mvc.dll
 C:\Users\yoomi\source\repos\AleShopWeb2\AleShopWeb2\bin\PagedList.xml
 C:\Users\yoomi\source\repos\AleShopWeb2\AleShopWeb2\bin\PagedList.Mvc.xml
+C:\Users\yoomi\source\repos\AleShopWeb2\AleShopWeb2\bin\MercadoPago.dll
+C:\Users\yoomi\source\repos\AleShopWeb2\AleShopWeb2\bin\RestSharp.dll
+C:\Users\yoomi\source\repos\AleShopWeb2\AleShopWeb2\bin\MercadoPago.pdb
+C:\Users\yoomi\source\repos\AleShopWeb2\AleShopWeb2\bin\MercadoPago.xml
+C:\Users\yoomi\source\repos\AleShopWeb2\AleShopWeb2\bin\RestSharp.xml

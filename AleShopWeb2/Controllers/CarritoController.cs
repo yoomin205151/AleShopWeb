@@ -6,6 +6,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+
+
 namespace AleShopWeb2.Controllers
 {
     public class CarritoController : Controller
@@ -69,11 +71,6 @@ namespace AleShopWeb2.Controllers
                 return Json(new { success = false, message = "Debe iniciar sesión para agregar productos al carrito." });
             }
         }
-
-
-
-
-
 
         [HttpPost]
         public ActionResult EliminarProducto(int productoId)
@@ -195,6 +192,8 @@ namespace AleShopWeb2.Controllers
         [HttpPost]
         public JsonResult RealizarPago()
         {
+
+           
             // Verificar si el usuario ha iniciado sesión y si tiene un ID válido en la sesión.
             if (Session["usuario"] != null && Session["usuario"] is usuario user && user.id > 0)
             {
@@ -265,7 +264,7 @@ namespace AleShopWeb2.Controllers
             }
         }
 
-
+        
 
 
     }
